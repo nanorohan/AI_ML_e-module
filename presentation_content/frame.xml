@@ -9,7 +9,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Machine learning_introduction" />
+              <option name="title_text" value="Introduction to machine learning" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1090,18 +1090,22 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="4pDEhi3usJG.264" displaytext="Slide 1" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.257" displaytext="Slide 2" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.258" displaytext="Slide 3" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.259" displaytext="Slide 4" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.260" displaytext="Slide 5" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.261" displaytext="Slide 6" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.262" displaytext="Slide 7" expand="true" type="slide" />
-        <slidelink slideid="4pDEhi3usJG.263" displaytext="Slide 8" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.264" displaytext="Introduction" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.257" displaytext="What is Machine Learning?" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.258" displaytext="Why math for Machine Learning?" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.259" displaytext="What math for Machine Learning?" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.260" displaytext="Let's get started with the basics" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.261" displaytext="Understanding the ML jargon" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.262" displaytext="Understanding the ML jargon (2)" expand="true" type="slide" />
+        <slidelink slideid="4pDEhi3usJG.263" displaytext="Understanding the ML jargon (3)" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="presentation_content/external_files/Transcript.pdf" image="presentation_content/6mJ8cqUiMDs.png" title="Transcript" />
+    </resources>
+  </resource_data>
   <transcript_data />
   <glossary_data />
 </bwFrame>
