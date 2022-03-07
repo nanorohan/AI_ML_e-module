@@ -12,11 +12,11 @@
   position: relative;
   float: left;
   overflow: hidden;
-  margin: 10px 1%;
-  min-width: 320px;
-  max-width: 480px;
+  margin: 1%;
+  /*min-width: 320px;
+  max-width: 480px;*/
   max-height: 360px;
-  width: 48%;
+  width: 31.33%;
   background: #000066;
   text-align: center;
   cursor: pointer;
@@ -130,8 +130,7 @@ figure.effect-lily p {
   transition: opacity 0.2s, transform 0.35s;
 }
 
-figure.effect-lily:hover img,
-figure.effect-lily:hover p {
+figure.effect-lily:hover img{
   opacity: .1;
 }
 
